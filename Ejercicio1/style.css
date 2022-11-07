@@ -1,0 +1,23 @@
+/* Contenedor Flex*/
+.contenedor {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin-left: auto;
+    margin-right: auto;
+
+
+    width: 17rem;
+    height: 17rem;
+
+    background-color: #73CCE9;
+}
+
+/* Hijo Flex*/
+.hijo {
+    width: 8rem;
+    height: 8rem;
+
+    background-color: #F15322;
+}

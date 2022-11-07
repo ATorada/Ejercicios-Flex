@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+}
+
+.header {
+    background-color:#7ACBE7;
+    padding: 1%;
+}
+
+.main {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    height: 80vh;
+}
+
+.sidebar {
+    background-color:#6588CC;
+    padding: 1%;
+}
+
+.sidebar-2 {
+    background-color:#62C7B9;
+    padding: 1%;
+}
+
+.content {
+    flex-grow: 1;
+    background-color: #EFF4D8;
+    padding: 1%;
+}
+
+.footer {
+    background-color: #FAA022;
+    padding: 1%;
+}
